@@ -1,6 +1,6 @@
 # FIFA 20 Analysis: Player Clustering & Wage Prediction
 
-**Duration:** [28th Oct 2025 – 7th Nov 2025]
+**Duration:** [29th Oct 2025 – 7th Nov 2025]
 
 **Project Type:** Data Analysis & Machine Learning
 
